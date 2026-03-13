@@ -67,4 +67,4 @@ npm run format   # Run Prettier
 
 ## Live Demo
 
-[https://tictacprox.vercel.app](https://tictacprox.vercel.app)
+[https://tacfinity.vercel.app/](https://tacfinity.vercel.app/)
